@@ -1,0 +1,40 @@
+nav{
+    text-align: center;
+text-align: center;
+font-size: 20px;
+margin-top: 30px;
+margin: 120px;
+}
+.header{
+    background: #FFF;
+}
+.banner{
+    padding: 20px 20px 20px 20px;
+}
+.banner-offer{
+    color: #F00;
+text-align: center;
+font-size: 200%;
+font-style: normal;
+font-weight: 700;
+}
+.banner-holiday{
+    color: #F00;
+text-align: center;
+font-size: 20px;
+font-style: normal;
+font-weight: 300;
+}
+.banner-gate{
+    color: #070211;
+text-align: center;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+}
+.banner > li{
+    width: 1600px;
+height: 7335px;
+background: #FFF;
+    border: none;
+}
