@@ -8,6 +8,37 @@ margin: 120px;
 .header{
     background: #FFF;
 }
+.body-img{
+    background-image: url(resources/Banner\ Image.png);
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+margin-top: 30px;
+margin-left: 100px;
+margin-right: 100px;
+margin-bottom: 50px;
+}
+.first-tittle{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+color:#FFFFFF ;
+margin-top: 100px;
+}
+.second-tittle{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 700;
+line-height: 95px; /* 131.944% */
+}
+
 .banner{
     padding: 20px 20px 20px 20px;
 }
@@ -49,4 +80,74 @@ color:#FF0000;
 }
 .primary-color{
     color:#FF0000 ;
+}
+.new-item{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal; 
+}
+.come-item{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.para-description{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.centre-img{
+text-align:;
+    width: 364.844px;
+height: 364.844px;
+flex-shrink: 0;
+border-radius: 364.844px;
+background: url(<path-to-image>), lightgray -91.279px 0px / 150.038% 100% no-repeat;
+
+}
+.text-year{
+    color: #F00;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+text-align: right;
+text position: top: ;
+
+}
+.text-description{
+    text-align: right;
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+text position: height: top: ;;
+}
+.text-joint{
+    display: inline-flex;
+    padding: 12px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; 
+    border-radius: 4px
+}
+.text-circle{
+color: crimson
+
+}
+.first-img{
+    background-image: url(resources/Banner\ Image.png);
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
 }
