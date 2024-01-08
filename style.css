@@ -107,6 +107,8 @@ font-weight: 400;
 line-height: 32px; /* 160% */
 }
 .centre-img{
+    display: flex;
+    border-radius: 50px
 text-align:;
     width: 364.844px;
 height: 364.844px;
@@ -151,3 +153,38 @@ color: crimson
 height: 600px;
 flex-shrink: 0;
 }
+.text-best{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.text-port{
+    box-sizing: border-box;
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-tran
+sform: capitalize;
+}
+.circle-container{
+    justify-content: center;
+}
+
+
+.first-row{
+    margin-right: 100px;
+    margin-left: 100px;
+    row-gap: 15px;
+    margin-top: 75px;
+}
+.second-row{
+    margin-right: 100px;
+    margin-left: 100px;
+    row-gap: 50px;
+margin-bottom: 50px;
