@@ -187,4 +187,62 @@ sform: capitalize;
     margin-right: 100px;
     margin-left: 100px;
     row-gap: 50px;
-margin-bottom: 50px;
+margin-bottom: 50px; }
+
+.text-description{
+
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+color:#FF00000D ;
+
+}
+.center-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0; 
+}
+.text-push{
+    width: 648px;
+height: 72px;
+flex-shrink: 0;
+}
+.footer-section{
+    background: #070211;
+    color:#070211 ;
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0; 
+
+}
+.sub-text{
+    text-align: left;
+}
+.contact-number{
+    text-align: right;
+    
+
+}
+.web-site{
+
+
+
+
+
+
+
+.footer-icon{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-top: 150px;
+    margin-bottom: 300px;
+}
+.text-reserved{
+    text-align: left;
+}
